@@ -1,0 +1,9 @@
+C:\Users\User2\Documents\Visual Studio 2017\Projects\C# Projects\Training projects\QnAUpdateKB\QnAUpdateKB\bin\Debug\QnAUpdateKB.exe.config
+C:\Users\User2\Documents\Visual Studio 2017\Projects\C# Projects\Training projects\QnAUpdateKB\QnAUpdateKB\bin\Debug\QnAUpdateKB.exe
+C:\Users\User2\Documents\Visual Studio 2017\Projects\C# Projects\Training projects\QnAUpdateKB\QnAUpdateKB\bin\Debug\QnAUpdateKB.pdb
+C:\Users\User2\Documents\Visual Studio 2017\Projects\C# Projects\Training projects\QnAUpdateKB\QnAUpdateKB\obj\Debug\QnAUpdateKB.csprojResolveAssemblyReference.cache
+C:\Users\User2\Documents\Visual Studio 2017\Projects\C# Projects\Training projects\QnAUpdateKB\QnAUpdateKB\obj\Debug\QnAUpdateKB.csproj.CoreCompileInputs.cache
+C:\Users\User2\Documents\Visual Studio 2017\Projects\C# Projects\Training projects\QnAUpdateKB\QnAUpdateKB\obj\Debug\QnAUpdateKB.exe
+C:\Users\User2\Documents\Visual Studio 2017\Projects\C# Projects\Training projects\QnAUpdateKB\QnAUpdateKB\obj\Debug\QnAUpdateKB.pdb
+C:\Users\User2\Documents\Visual Studio 2017\Projects\C# Projects\Training projects\QnAUpdateKB\QnAUpdateKB\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User2\Documents\Visual Studio 2017\Projects\C# Projects\Training projects\QnAUpdateKB\QnAUpdateKB\bin\Debug\Newtonsoft.Json.xml

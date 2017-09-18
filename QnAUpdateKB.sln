@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QnAUpdateKB", "QnAUpdateKB\QnAUpdateKB.csproj", "{F67FB511-7F6C-438A-A4D0-B6A060EE4350}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F67FB511-7F6C-438A-A4D0-B6A060EE4350}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F67FB511-7F6C-438A-A4D0-B6A060EE4350}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F67FB511-7F6C-438A-A4D0-B6A060EE4350}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F67FB511-7F6C-438A-A4D0-B6A060EE4350}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E55C0539-D36D-41D8-988C-9E8F0F532BEB}
+	EndGlobalSection
+EndGlobal
